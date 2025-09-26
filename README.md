@@ -1,0 +1,2 @@
+# BLD143_Guz2025_Omer_Arda_Akkus
+Bilgisayar programcılığı ders
